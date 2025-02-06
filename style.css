@@ -73,7 +73,7 @@ header {
 
     .res-menu-items-wrapper {
 
-        @apply bg-black fixed top-0 left-0 w-full h-full z-10 text-white;
+        @apply hidden bg-black fixed top-0 left-0 w-full h-full z-10 text-white;
 
         .res-menu {
 
